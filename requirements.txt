@@ -1,5 +1,7 @@
-streamlit
+streamlit==1.45.1
 openai
 python-dotenv
 pypdf
 python-docx
+docx2txt
+PyPDF2

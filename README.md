@@ -3,13 +3,16 @@ title: AI Resume Optimizer
 emoji: 📄
 colorFrom: blue
 colorTo: purple
-sdk: docker
+sdk: streamlit
+sdk_version: 1.45.1
+app_file: app.py
+python_version: 3.12
 pinned: false
 ---
 
 # AI Resume Optimizer
 
-An AI resume optimizer built with Streamlit and DeepSeek.
+AI resume optimizer built with Streamlit and DeepSeek.
 
 Features:
 1. Upload PDF, DOCX, or TXT resumes
